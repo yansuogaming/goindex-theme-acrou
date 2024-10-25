@@ -1,12 +1,12 @@
 // =======Options START=======
 var  authConfig  =  {
-  siteName : "Chillx",  // site name
+  siteName : "Drive Online",  // site name
   version : "1.1.2" ,  // program version
   theme: "acrou",
   // It is strongly recommended to use your own client_id and client_secret
-  client_id: "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
-    client_secret: "u5a1CSY5pNjdD2tGTU93TTnI",
-    refresh_token: "", // Authorize token
+  client_id: "844959154418-n09ohulqqr2uvimtdbqg5o3v21okqvq4.apps.googleusercontent.com", // Client id from Google Cloud Console
+    client_secret: "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",
+    refresh_token: "1//0eOBjisQNANLlCgYIARAAGA4SNwF-L9IrffpxRUZyy8KRTS2A1gwteMNn4Stnok4jDmQsqu168H4nyB59xzvJW-zC--KFJFYsSB4", // Authorize token
   /*
    * Set multiple drives to be displayed; add multiple by format
    * [id]: Can be team disk id, subfolder id, or "root" (representing the root directory of personal disk);

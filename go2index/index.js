@@ -4,9 +4,9 @@ var  authConfig  =  {
   version : "1.1.2" ,  // program version
   theme: "acrou",
   // It is strongly recommended to use your own client_id and client_secret
-  client_id: "844959154418-n09ohulqqr2uvimtdbqg5o3v21okqvq4.apps.googleusercontent.com",
-  client_secret: "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",
-  refresh_token: "1//0eOBjisQNANLlCgYIARAAGA4SNwF-L9IrffpxRUZyy8KRTS2A1gwteMNn4Stnok4jDmQsqu168H4nyB59xzvJW-zC--KFJFYsSB4",
+    client_id: "844959154418-n09ohulqqr2uvimtdbqg5o3v21okqvq4.apps.googleusercontent.com",
+    client_secret: "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",
+    refresh_token: "1//0eOBjisQNANLlCgYIARAAGA4SNwF-L9IrffpxRUZyy8KRTS2A1gwteMNn4Stnok4jDmQsqu168H4nyB59xzvJW-zC--KFJFYsSB4",
   /*
    * Set multiple drives to be displayed; add multiple by format
    * [id]: Can be team disk id, subfolder id, or "root" (representing the root directory of personal disk);
